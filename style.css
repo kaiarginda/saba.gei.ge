@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-style: oblique;
+}
+
+h2 {
+  color: purple;
+}
+
+span {
+  color: pink;
+}
+
+a:link {
+  text-decoration: none;
+  margin-right: 20px;
+  color: green;
+}
+
+a {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 25px;
+  margin-left: 15px;
+  /* margin-top: 15px; */
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+a:hover {
+  border: 1px solid black;
+  background-color: burlywood;
+}
+
+.iviko {
+  background-color: wheat;
+  height: 450px;
+  width: 250px;
+}
+
+.nikolozi {
+  background-color: wheat;
+  height: 450px;
+  width: 250px;
+}
+
+.otari {
+  background-color: wheat;
+  height: 450px;
+  width: 250px;
+}
+
+.testimotionals {
+  display: flex;
+  justify-content: space-between;
+}
+
+p {
+  font-size: larger;
+}
+
+.service {
+  /* margin-top: 50px; */
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.two {
+  margin-top: 50px;
+}
